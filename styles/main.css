@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .main_header_class {
-	flex-grow: 1;
+	flex-grow: 2;
 }
 
 .article_fish_food_class {
