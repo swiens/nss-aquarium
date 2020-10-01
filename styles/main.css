@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #container {
-	flex-direction: column-reverse;
+	flex-direction: column;
 	display: flex;
 	border: 2px solid coral;
 }
@@ -39,4 +39,8 @@ h1,h2,h3,h4,h5,h6 {
 
 .article_fish_food_class {
 	flex-grow: 1;
+}
+
+img {
+	width: 100 px
 }
