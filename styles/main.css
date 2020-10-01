@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Patua One", serif;
+  letter-spacing: 2px;
+}
+
+.my_class {
+	color: teal; 
+}
+
+#container {
+	flex-direction: column-reverse;
+	display: flex;
+	border: 2px solid coral;
+}
+
+.fish_list_class {
+	border: 2px dotted purple;
+	flex-grow: 1;
+}
+
+.main_header_class {
+	flex-grow: 1;
+}
+
+.article_fish_food_class {
+	flex-grow: 1;
+}
