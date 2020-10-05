@@ -20,27 +20,39 @@ h1,h2,h3,h4,h5,h6 {
 
 .my_class {
 	color: teal; 
+	text-align: center;
 }
 
 #container {
-	flex-direction: column;
-	display: flex;
 	border: 2px solid coral;
 }
 
 .fish_list_class {
 	border: 2px dotted purple;
-	flex-grow: 1;
-}
-
-.main_header_class {
-	flex-grow: 2;
-}
-
-.article_fish_food_class {
-	flex-grow: 1;
 }
 
 img {
 	width: 100 px
+}
+
+.center_class {
+	text-align: center;
+}
+
+.flex_container {
+	display: flex;
+
+}
+
+.flex_column {
+	flex-direction: column;
+}
+
+.tips_and_tricks {
+	border: 2px solid purple;
+	flex: 1;
+}
+
+.left_side {
+	flex: 2;
 }
