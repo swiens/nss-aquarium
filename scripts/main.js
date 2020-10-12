@@ -1,6 +1,4 @@
 
-import { FishList } from './FishList.js'
-
-
+import { FishList } from './fish/FishList.js'
 
 FishList()

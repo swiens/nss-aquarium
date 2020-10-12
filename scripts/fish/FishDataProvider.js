@@ -20,7 +20,17 @@ const fishCollection = [
         size: 8,
         location: "range covers the Bahamas, Venezuela, Lesser Antilles, Bermuda, and through the waters surrounding Central America and the northern part of South America",
         image: "https://images.immediate.co.uk/production/volatile/sites/4/2009/07/GettyImages-931270318-43ab672.jpg?quality=90&resize=940%2C400", 
+    },
+    {
+
+        name: "Gill",
+        food: "Mostly zooplankton and crustaceans and fish flesh",
+        scientific: "Gamma loreto",
+        size: 8,
+        location: "range covers the Bahamas, Venezuela, Lesser Antilles, Bermuda, and through the waters surrounding Central America and the northern part of South America",
+        image: "https://images.immediate.co.uk/production/volatile/sites/4/2009/07/GettyImages-931270318-43ab672.jpg?quality=90&resize=940%2C400", 
     }
+    
 
 ]
 
