@@ -9,13 +9,14 @@ export const FishList = () => {
 
 
     const fishes = useFish()
-    console.log(fishes)
+    
 
     let fishHTMLRepresentations = ""
 
     for (const fish of fishes) {
         fishHTMLRepresentations += Fish(fish)
-    }
+        
+    } 
 
     contentElement.innerHTML += `
                             <h3 class='center_class'>Fish List 1</h3>
